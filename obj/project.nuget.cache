@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqKu+/bazzLaQmg6AsGMtF1O3PAz2M48MaGBADOtRAJeoI2iQQajC2qMhAHULKcKJKXPaV+kud1VKzJPCLR89A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristiane\\Desktop\\Exercícios\\ConsumindoApiGitHub\\ConsumindoApiGitHub\\ConsumindoApiGitHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristiane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
